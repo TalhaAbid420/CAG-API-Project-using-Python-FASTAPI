@@ -65,8 +65,8 @@ Clean, simple, and extremely effective.
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/cag-api.git
-cd cag-api
+git clone https://github.com/TalhaAbid420/CAG-API-Project-using-Python-FASTAPI.git
+cd CAG-API-Project-using-Python-FASTAPI
 
 ### 2. Create a virtual environment
 python -m venv venv  
